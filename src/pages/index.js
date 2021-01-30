@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, Link } from 'gatsby'
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import styles from '../styles/home.module.css'
 
 export default function Home({ data }) {
